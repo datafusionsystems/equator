@@ -1,0 +1,1 @@
+﻿<cfoutput><!DOCTYPE html><html lang="en"><head>	<meta charset="utf-8">	<title>Welcome to Coldbox!</title>	</head><body data-spy="scroll">	Top Area Layout	<hr>	<!---Container And Views --->	<div class="container">#renderView()#</div>	<hr>		Bottom Area Layout	</body></html></cfoutput>
